@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/suvo-gh/suvo-gh/blob/main/index.md)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/suvo-gh/Linear_Regression_Seoul_dataset/blob/main/LR_proj.ipynb)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 

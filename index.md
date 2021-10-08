@@ -15,7 +15,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
@@ -26,10 +26,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying given picture is a Cat or a Dog](/https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
 
-<img src="images/knee-brace-ortho.png?raw=true"/>
+<img src="images/Dog-and-Cat.jpeg?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train and test performance
+- Added multiple convolution and pooling layers
+- Training model on basis of given data
+- Fitting the CNN to see if the provided image is dog or cat
+- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing

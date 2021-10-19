@@ -1,16 +1,16 @@
-### Hi there 👋
+## It's Me @suvo-gh 👋
 
-<!--
-**suvo-gh/suvo-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hi I am ***Suvo Ghosh Hazra***, currently working a Data Scientist working at TECH I.S.
 
-Here are some ideas to get you started:
+>I decided to ramp up my coding skills and hence my participation in Kaggle Competitions and Hackkerank Challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Find my codes in my Repos at] : (https://github.com/suvo-gh)
+
+[Connect with my Linkedin at] : (https://www.linkedin.com/in/suvo-ghosh-hazra)
+
+🧡    My passions:
+* Technology and software
+* Science
+* Machine learning and Deep Learning
+* Algorithms
+* Competitive Gaming

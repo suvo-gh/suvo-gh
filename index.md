@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predication of bike rental count on daily based on the environmental and seasonal settings
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in **94%** accuracy.
+**Quantifiable result:** We could predict the Bike rental demand resulting in <span color="red">redtext</span>**94%** accuracy.
 
 - Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model

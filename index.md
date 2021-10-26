@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predication of bike rental count on daily based on the environmental and seasonal settings
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in **94%** accuracy.
+**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
 
 - Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** A live example on classifying Biomechanical Features of Orthopedic Patients based on provided Features
 
-**Quantifiable result:** We could Classify the type of tumor resulting in **80%** accuracy using K-means algorithm.
+**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
@@ -47,7 +47,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Predicting weather a given image is a Cat or a Dog using Convolutional Neural Networks
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of **80%** using **23** epochs.
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data

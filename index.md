@@ -10,7 +10,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Predication of bike rental count on daily based on the environmental and seasonal settings
+**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
 **Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
 
@@ -28,7 +28,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** A live example on classifying Biomechanical Features of Orthopedic Patients based on provided Features
+**Project Objective:** Classifying Biomechanical Features of Orthopedic Patients based on provided Features to decrease the time required for finding a diagonasis
 
 **Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
 
@@ -45,7 +45,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:** Predicting weather a given image is a Cat or a Dog using Convolutional Neural Networks
+**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
 **Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
 

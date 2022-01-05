@@ -28,7 +28,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Classifying Biomechanical Features of Orthopedic Patients based on provided Features to decrease the time required for finding a diagonasis
+**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives.
 
 **Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
 
